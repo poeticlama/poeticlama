@@ -1,4 +1,4 @@
-# Hi, I’m poeticlama 👋
+# Hi, I’m Sergey Knyazkin 👋
 
 - 🎓 2nd year Bachelor student at Innopolis University
 - 🖥️ Frontend enthusiast (Vue.js), Python explorer
